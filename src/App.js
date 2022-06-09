@@ -1,6 +1,6 @@
-// import Counter from "./components/Counter/Counter";
-// import CompleCounter from "./components/ComplexCounter/CompleCounter";
-import Counter from "./components/ContextCounter/Counter";
+// import Counter from "./components/Reducer-Hook/Counter/Counter";
+// import CompleCounter from "./components/Reducer-Hook/ComplexCounter/CompleCounter";
+import Counter from "./components/Reducer-Hook/Counter/Counter";
 
 function App() {
   return (
